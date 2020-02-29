@@ -1,6 +1,7 @@
 
 ### All coded on MacBook Pro 2016 - macOS Mojave ###
 
+### Disclaimer: This information gained has only research purpose and no intent to affect opinions of others ###
 
 ### Libraries Used ###
 
