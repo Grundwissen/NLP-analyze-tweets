@@ -1,5 +1,5 @@
 
-### All coded on MacBook Pro 2016 - macOS Mojave ###
+### All coded on MacBook Pro 2016 - macOS Mojave - python==3.6 ###
 
 ### Disclaimer: This information gained has only research purpose and no intent to affect opinions of others ###
 
